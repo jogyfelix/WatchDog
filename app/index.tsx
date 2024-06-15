@@ -1,11 +1,10 @@
 import React from 'react'
 import { Text, View } from 'react-native'
+import Welcome from './auth/Welcome'
 
 const index = () => {
   return (
-    <View>
-      <Text>WatchDog</Text>
-    </View>
+   <Welcome/>
   )
 }
 
