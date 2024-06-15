@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "userInterfaceStyle": "light",
-     "scheme": "watchdog",
+    "scheme": "watchdog",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#000D1C"
-      }
+      },
+      "package": "com.watchdog"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
